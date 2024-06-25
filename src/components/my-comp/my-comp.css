@@ -1,0 +1,10 @@
+.clickable-div {
+  padding: 10px;
+  border: 1px solid black;
+  cursor: pointer; /* Tıklanabilir olduğunu belirtmek için */
+  transition: background-color 0.3s;
+}
+
+.clickable-div:hover {
+  background-color: lightblue; /* Mouse üzerine geldiğinde değişen renk */
+}

@@ -1,10 +1,13 @@
 // src/App.jsx
 import React from 'react';
+import ProductList from './components/unified/ProductList';
+import Footer from './components/unified/Footer';
+import Header from './components/unified/Header';
 
-import Card from './compenents/card/card';
-import Welcome from './compenents/card/welkome';
-import CardTasarim from './compenents/card-tasarim/card-tasarim';
-import AlertPage from './compenents/alert/alert-page';
+
+
+
+
 
 
 
@@ -33,11 +36,16 @@ const App = () => {
         followers="1.2K"
         follow="Follow"
       />
+ <AlertPage/>
 
+   <MyComp/>
 */}
 
 
-      <AlertPage/>
+
+      <Header />
+      <ProductList />
+      <Footer />
 
     </div>
   );
