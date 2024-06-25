@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": 1,
+    "avatar": "https://via.placeholder.com/150",
+    "name": "Jane Doe",
+    "location": "New York, NY",
+    "shot": 30,
+    "followers": 2000,
+    "following": 180
+  },
+  {
+    "id": 2,
+    "avatar": "https://via.placeholder.com/150",
+    "name": "John Smith",
+    "location": "Los Angeles, CA",
+    "shot": 25,
+    "followers": 1500,
+    "following": 200
+  },
+  {
+    "id": 3,
+    "avatar": "https://via.placeholder.com/150",
+    "name": "Alice Johnson",
+    "location": "Chicago, IL",
+    "shot": 20,
+    "followers": 1000,
+    "following": 250
+  },
+  {
+    "id": 4,
+    "avatar": "https://via.placeholder.com/150",
+    "name": "Michael Brown",
+    "location": "Houston, TX",
+    "shot": 35,
+    "followers": 3000,
+    "following": 150
+  },
+  {
+    "id": 5,
+    "avatar": "https://via.placeholder.com/150",
+    "name": "Emily Davis",
+    "location": "Phoenix, AZ",
+    "shot": 40,
+    "followers": 3500,
+    "following": 220
+  }
+]
